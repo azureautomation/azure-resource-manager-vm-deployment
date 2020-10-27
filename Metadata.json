@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 47803,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-resource-manager-vm-deployment/master/ArmDeployments.ps1",
+    "DownloadCount": 1378,
+    "Id": "Azure-Resource-Manager-VM-864cb32b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 231,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The attached script uses a gui to deploy VM's and its associated resources quickly. The latest ARM modules is required. The script has been updated to make use of PowerShell workflows.Te account use cannot be a Microsoft Live account. it now includes Availability Sets.",
+    "Title": "Azure Resource Manager VM Deployment",
+    "UpdatedDate": "2019-11-22T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-resource-manager-vm-deployment",
+    "UserTags": "Workflow, Windows Azure Virtual Machines, Azure Resource Manager"
+}
